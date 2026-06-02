@@ -176,7 +176,7 @@ while {1} {
 
 ## 📊 Results
 
-- **Detection time**: < 60 seconds from attack start to Telegram alert
+- **Detection time**: < real time around 60 seconds from attack start to Telegram alert
 - **CPU threshold**: 40% triggers immediate alert
 - **Survivability**: CoPP policy maintained SSH management access during SYN Flood
 
